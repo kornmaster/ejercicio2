@@ -8,6 +8,6 @@ package ejercicio2.entidades;
  *
  * @author kornm
  */
-public class Cliente {
+public class Yo {
     
 }
