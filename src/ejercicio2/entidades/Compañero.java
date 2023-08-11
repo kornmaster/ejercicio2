@@ -9,7 +9,7 @@ package ejercicio2.entidades;
  * @author kornm
  */
 public class Compañero {
-    private int codigo;
+    private int codigoo;
     private String descripcion;
 
     public Compañero(int codigo, String descripcion) {
